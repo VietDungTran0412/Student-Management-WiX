@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="WixStudentManagement" Language="1033" Version="1.0.0.0" Manufacturer="Dung Tran" UpgradeCode="94df55fc-f30a-4f48-bbf8-aaab5b4f43b2">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="WixStudentManagement" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WixStudentManagementInstaller" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+      <Component Id="StudentManagement.exe" Guid="bda069e6-9c46-491c-810d-a741e9df54b1">
+        <File Id="StudentManagement.exe" Source="$(var.StudentManagement.TargetDir)StudentManagement.exe"></File>
+      </Component>
+
+		</ComponentGroup>
+	</Fragment>
+</Wix>

@@ -1,0 +1,5 @@
+C:\Users\vietdung13x3\source\repos\StudentManagement\StringService\bin\Debug\StringService.dll
+C:\Users\vietdung13x3\source\repos\StudentManagement\StringService\bin\Debug\StringService.pdb
+C:\Users\vietdung13x3\source\repos\StudentManagement\StringService\obj\Debug\StringService.csproj.CoreCompileInputs.cache
+C:\Users\vietdung13x3\source\repos\StudentManagement\StringService\obj\Debug\StringService.dll
+C:\Users\vietdung13x3\source\repos\StudentManagement\StringService\obj\Debug\StringService.pdb

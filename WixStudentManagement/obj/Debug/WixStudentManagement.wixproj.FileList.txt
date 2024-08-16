@@ -1,0 +1,6 @@
+C:\Users\vietdung13x3\source\repos\StudentManagement\WixStudentManagement\bin\Debug\WixStudentManagement.msi
+C:\Users\vietdung13x3\source\repos\StudentManagement\WixStudentManagement\bin\Debug\WixStudentManagement.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WixStudentManagement.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixStudentManagement.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixStudentManagement.wixproj.BindBuiltOutputsFileListnull.txt

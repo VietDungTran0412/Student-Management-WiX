@@ -1,0 +1,15 @@
+C:\Users\vietdung13x3\source\repos\StudentManagement\WapProjStudentManagement\Images\LockScreenLogo.scale-200.png
+C:\Users\vietdung13x3\source\repos\StudentManagement\WapProjStudentManagement\Images\Square150x150Logo.scale-200.png
+C:\Users\vietdung13x3\source\repos\StudentManagement\WapProjStudentManagement\Images\Square44x44Logo.scale-200.png
+C:\Users\vietdung13x3\source\repos\StudentManagement\WapProjStudentManagement\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\vietdung13x3\source\repos\StudentManagement\WapProjStudentManagement\Images\StoreLogo.png
+C:\Users\vietdung13x3\source\repos\StudentManagement\WapProjStudentManagement\Images\Wide310x150Logo.scale-200.png
+C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd
+C:\Users\vietdung13x3\source\repos\StudentManagement\WapProjStudentManagement\bin\AnyCPU\Debug\resources.pri
+C:\Users\vietdung13x3\source\repos\StudentManagement\DateService\bin\Debug\DateService.dll
+C:\Users\vietdung13x3\source\repos\StudentManagement\StringService\bin\Debug\StringService.dll
+C:\Users\vietdung13x3\source\repos\StudentManagement\DateService\bin\Debug\DateService.pdb
+C:\Users\vietdung13x3\source\repos\StudentManagement\StringService\bin\Debug\StringService.pdb
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb

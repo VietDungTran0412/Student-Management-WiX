@@ -1,0 +1,6 @@
+C:\Users\vietdung13x3\source\repos\StudentManagement\DateService\bin\Debug\DateService.dll
+C:\Users\vietdung13x3\source\repos\StudentManagement\DateService\bin\Debug\DateService.pdb
+C:\Users\vietdung13x3\source\repos\StudentManagement\DateService\obj\Debug\DateService.csprojAssemblyReference.cache
+C:\Users\vietdung13x3\source\repos\StudentManagement\DateService\obj\Debug\DateService.csproj.CoreCompileInputs.cache
+C:\Users\vietdung13x3\source\repos\StudentManagement\DateService\obj\Debug\DateService.dll
+C:\Users\vietdung13x3\source\repos\StudentManagement\DateService\obj\Debug\DateService.pdb

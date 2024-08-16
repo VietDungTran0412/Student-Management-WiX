@@ -1,0 +1,15 @@
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\StringService.dll
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\StringService.pdb
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\DateService.dll
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\bin\Debug\DateService.pdb
+C:\Users\vietdung13x3\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojAssemblyReference.cache

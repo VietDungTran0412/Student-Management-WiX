@@ -1,0 +1,2 @@
+C:\Users\vietdung13x3\source\repos\StudentManagement\WixStudentManagement\bin\Debug\WixStudentManagement.msi
+C:\Users\vietdung13x3\source\repos\StudentManagement\WixStudentManagement\bin\Debug\WixStudentManagement.wixpdb
